@@ -1,7 +1,7 @@
 # Mark2TG
 
 [![PyPI](https://img.shields.io/pypi/v/mark2tg?color=blue)](https://pypi.org/project/mark2tg/)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/yourusername/mark2tg/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/livlev/mark2tg/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
 
 **Mark2TG** is a lightweight Python library for converting Markdown to Telegram formatting. It supports all major Markdown features, including headings, bold, italic, strikethrough, links, code blocks, lists, tables, and more. Perfect for generating Telegram messages from Markdown content!
