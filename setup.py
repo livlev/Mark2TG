@@ -8,7 +8,7 @@ setup(
     author='Leonid I. aka livlev && le01evf',
     author_email='leonid.a.ivlev@gmail.cpom',
     description='A lightweight library to convert Markdown to Telegram formatting.',
-    url='https://github.com/yourusername/mark2tg',
+    url='https://github.com/livlev/mark2tg',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
